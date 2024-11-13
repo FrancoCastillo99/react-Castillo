@@ -10,7 +10,8 @@ Esta es una aplicación de carga de productos donde puedes agregar el nombre, im
 
 ## Vista previa
 
-![Vista previa de la aplicación](./React-Readme.png)
+![Vista previa de la aplicación](![image](https://github.com/user-attachments/assets/cf6f2f34-5530-42b5-9567-5b4b0b372121)
+)
 
 _Nota: Esta imagen muestra cómo se ve la aplicación después de agregar algunos productos. Si corres la aplicación desde cero, la lista de productos aparecerá vacía hasta que agregues nuevos._
 
