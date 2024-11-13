@@ -10,7 +10,7 @@ Esta es una aplicación de carga de productos donde puedes agregar el nombre, im
 
 ## Vista previa
 
-![Vista previa de la aplicación](![image](https://github.com/user-attachments/assets/cf6f2f34-5530-42b5-9567-5b4b0b372121)
+![Vista previa de la aplicación](https://firebasestorage.googleapis.com/v0/b/imagenes-parcial-castillo.appspot.com/o/React-Readme.png?alt=media&token=a509c2a8-ac60-452a-b1f6-21e1965ad282)
 )
 
 _Nota: Esta imagen muestra cómo se ve la aplicación después de agregar algunos productos. Si corres la aplicación desde cero, la lista de productos aparecerá vacía hasta que agregues nuevos._
