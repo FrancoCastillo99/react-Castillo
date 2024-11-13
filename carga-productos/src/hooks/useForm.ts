@@ -1,0 +1,20 @@
+import { useState } from "react";
+
+interface FormValues {
+  [key: string]: string | number;
+}
+
+export const useForm = <T extends FormValues>(initialValues: T) => {
+  const [values, setValues] = useState<T>({} as T);
+
+  const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
+    const { value, name } = e.target;
+    setValues({ ...values, [`${name}`]: value });
+  };
+
+  const resetForm = () => {
+    setValues(initialValues);
+  };
+
+  return { values, handleChange, resetForm };
+};
