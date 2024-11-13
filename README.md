@@ -24,5 +24,4 @@ _Nota: Esta imagen muestra cómo se ve la aplicación después de agregar alguno
 ## Tecnologías utilizadas
 
 - **React** - Para la construcción de la interfaz de usuario.
-- **Firebase** - Para la autenticación y almacenamiento de datos.
 - **Bootstrap** - Para los estilos y el diseño de la interfaz.
